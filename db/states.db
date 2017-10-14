@@ -1,3 +1,5 @@
-{"locations":null,"players":null,"mode":"HotColdGame","started":0,"gameDependent":null,"_id":"birIj4UAIihuhxyd"}
-{"$$deleted":true,"_id":"birIj4UAIihuhxyd"}
-{"locations":null,"players":null,"mode":"Configure","started":{},"gameSpecific":null,"drinkers":{},"_id":"kpxEXWwOB30qYKFK"}
+{"locations":null,"players":null,"mode":"Configure","started":{},"gameSpecific":null,"drinkers":{},"_id":"PptewaaXWQZ2zvBS"}
+{"$$deleted":true,"_id":"PptewaaXWQZ2zvBS"}
+{"locations":null,"players":null,"mode":"Configure","started":{},"gameSpecific":null,"drinkers":{},"_id":"Udd91mJsVtK24Vtq"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508006886351},"drunkness":0,"_id":"wUnPDQlNkjWea4hj"}],"mode":"Join","started":{},"gameSpecific":null,"drinkers":{},"_id":"Udd91mJsVtK24Vtq"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508006886351},"drunkness":0,"_id":"wUnPDQlNkjWea4hj"}],"started":{},"gameSpecific":{"question":null,"countryProperty":null,"responses":{}},"drinkers":{},"_id":"Udd91mJsVtK24Vtq"}
