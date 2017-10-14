@@ -1,0 +1,25 @@
+* What is a Mode?
+Modes refer to the screens, they determine the behaviour of submitted actions.
+They are stored in the state. Modes are written in the form "ModeName"
+* What is an Action
+An action is sent by the client as JSON in the form {"userId":userId,"action":{"name":actionName,"arg1":arg1,"arg2":arg2,...}} action names are in the form "actionName"
+* Modes
+
+** Configure
+*** Description
+The initial screen, where users select the budget and date. This changes the mode to the Join mode globally
+*** Actions
+**** configure
+***** Arguments
+2 accompanying arguments: budget and dateString
+***** Description
+Assigns budget and datestring, changes global mode to Join. Triggered by pressing adventure button.
+** Join
+*** Description
+Players that weren't the first to submit the budget and date can join the game. Everyone can see a countdown to game start, and can observe who else has joined. Has adventure button, which is disabled when the player ID is in the player record
+*** Actions
+**** join
+***** Arguments
+no arguments
+***** Description
+Adds player id to player record in state. Triggered by pressing the adventure button.

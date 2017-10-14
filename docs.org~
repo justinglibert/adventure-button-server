@@ -1,0 +1,19 @@
+* What is a Mode?
+Modes refer to the screens, they determine the behaviour of submitted actions.
+They are stored in the state.
+* What is an Action
+And action is sent by the client as JSON in the form src_JSON{{"userId":userId,"action",{"name":actionName,"arg1":arg1,"arg2":arg2,...}}}
+* Modes
+
+** Configure
+*** Description
+The initial screen, where users select the budget and date, the first to submit chooses globally. This changes the mode to the Join mode
+*** Actions
+**** configure
+     2 accompanying arguments: budget and dateString
+** Join
+*** Description
+Players that weren't the first to submit the budget and date can join the game. Everyone can see a countdown to game start, and can observe who else has joined
+*** Actions
+**** join
+no arguments (name entry is part of registration
