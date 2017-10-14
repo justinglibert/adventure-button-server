@@ -1,4 +1,4 @@
-{"locations":null,"players":null,"mode":"Configure","started":0,"gameDependent":null,"_id":"2Nv9UHciR7153uaZ"}
-{"$$deleted":true,"_id":"2Nv9UHciR7153uaZ"}
-{"locations":null,"players":null,"mode":"Configure","started":0,"gameDependent":null,"_id":"bIIvVI7hk1N9Ed4N"}
-{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1507988932453},"drunkness":0,"_id":"1r5niKyUF663G6ls"}],"mode":"Join","started":0,"gameDependent":null,"_id":"bIIvVI7hk1N9Ed4N"}
+{"locations":null,"players":null,"mode":"Configure","started":0,"gameDependent":null,"_id":"jg6T9uoWlCg54LmU"}
+{"$$deleted":true,"_id":"jg6T9uoWlCg54LmU"}
+{"locations":null,"players":null,"mode":"Configure","started":0,"gameDependent":null,"_id":"MXEuchDsnIDBR0Bw"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1507991526146},"drunkness":0,"_id":"2iqKVoiG5KEWJLVP"}],"mode":"Join","started":0,"gameDependent":null,"_id":"MXEuchDsnIDBR0Bw"}
