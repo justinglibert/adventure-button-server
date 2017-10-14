@@ -1,5 +1,7 @@
-{"locations":null,"players":null,"mode":"Configure","started":{},"gameSpecific":null,"drinkers":{},"_id":"PptewaaXWQZ2zvBS"}
-{"$$deleted":true,"_id":"PptewaaXWQZ2zvBS"}
-{"locations":null,"players":null,"mode":"Configure","started":{},"gameSpecific":null,"drinkers":{},"_id":"Udd91mJsVtK24Vtq"}
-{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508006886351},"drunkness":0,"_id":"wUnPDQlNkjWea4hj"}],"mode":"Join","started":{},"gameSpecific":null,"drinkers":{},"_id":"Udd91mJsVtK24Vtq"}
-{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508006886351},"drunkness":0,"_id":"wUnPDQlNkjWea4hj"}],"started":{},"gameSpecific":{"question":null,"countryProperty":null,"responses":{}},"drinkers":{},"_id":"Udd91mJsVtK24Vtq"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508012109183},"drunkness":0,"_id":"AtI7mlLiSvvmPjLF"}],"mode":"Resolution","started":{},"gameSpecific":{"question":"Do you want to be Hokage?","responses":{}},"drinkers":{},"_id":"jbNLvcnHagZ23cn4"}
+{"$$deleted":true,"_id":"jbNLvcnHagZ23cn4"}
+{"locations":null,"players":null,"mode":"Configure","started":{},"gameSpecific":null,"drinkers":{},"_id":"iGFOhJtqpkWvSsxq"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508012250243},"drunkness":0,"_id":"5tsArKbYrlRJJUcr"}],"mode":"Join","started":{},"gameSpecific":null,"drinkers":{},"_id":"iGFOhJtqpkWvSsxq"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508012250243},"drunkness":0,"_id":"5tsArKbYrlRJJUcr"}],"mode":"Question","started":{},"gameSpecific":{"question":"Do you want to be Hokage?","responses":{}},"drinkers":{},"_id":"iGFOhJtqpkWvSsxq"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508012250243},"drunkness":0,"_id":"5tsArKbYrlRJJUcr"}],"mode":"Resolution","started":{},"gameSpecific":{"question":"Do you want to be Hokage?","responses":{}},"drinkers":{},"_id":"iGFOhJtqpkWvSsxq"}
+{"locations":{},"players":[{"name":"test","createdAt":{"$$date":1508012250243},"drunkness":0,"_id":"5tsArKbYrlRJJUcr"}],"started":{},"drinkers":{},"_id":"iGFOhJtqpkWvSsxq"}
