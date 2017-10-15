@@ -12,11 +12,7 @@
     "winston": "^3.0.0-rc0"
   },
   "scripts": {
-    "start": "node index.js",
-    "build": "babel lib -d dist",
-    "serve": "node dist/index.js",
-    "build-server": "babel -d ./build ./lib -s",
-    "test": "mocha --compilers js:babel-register"
+    "start": "node index.js"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
