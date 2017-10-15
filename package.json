@@ -13,7 +13,7 @@
   },
   "scripts": {
     "startb": "nodemon lib/index.js --exec babel-node --presets es2015,stage-2",
-    "start": "npm run build && npm run server",
+    "start": "npm run build && npm run serve",
     "build": "babel lib -d dist",
     "serve": "node dist/index.js",
     "build-server": "babel -d ./build ./lib -s",
