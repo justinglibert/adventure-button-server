@@ -4,7 +4,10 @@
     "good-console": "^6.4.0",
     "good-squeeze": "^5.0.2",
     "hapi": "^16.6.2",
+    "isomorphic-fetch": "^2.2.1",
+    "moment": "^2.19.1",
     "nedb": "^1.8.0",
+    "query-string": "^5.0.0",
     "socketio": "^1.0.0",
     "winston": "^3.0.0-rc0"
   },
